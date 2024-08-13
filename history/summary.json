@@ -36,10 +36,10 @@
     "dailyMinutesDown": {}
   },
   {
-    "name": "test",
-    "url": "https://test.gestform.com/",
-    "icon": "https://icons.duckduckgo.com/ip3/test.gestform.com.ico",
-    "slug": "test",
+    "name": "test2",
+    "url": "https://test2.gestform.com/",
+    "icon": "https://icons.duckduckgo.com/ip3/test2.gestform.com.ico",
+    "slug": "test2",
     "status": "down",
     "uptime": "0.00%",
     "uptimeDay": "0.00%",
@@ -52,7 +52,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-08-13": 3
+      "2024-08-13": 2
     }
   }
 ]
