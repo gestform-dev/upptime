@@ -36,23 +36,21 @@
     "dailyMinutesDown": {}
   },
   {
-    "name": "test2",
-    "url": "https://test2.gestform.com/",
-    "icon": "https://icons.duckduckgo.com/ip3/test2.gestform.com.ico",
-    "slug": "test2",
-    "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2024-08-13": 2
-    }
+    "name": "ngrok",
+    "url": "https://1102-212-51-179-1.ngrok-free.app/fs-tracking/version",
+    "icon": "https://icons.duckduckgo.com/ip3/1102-212-51-179-1.ngrok-free.app.ico",
+    "slug": "ngrok",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 309,
+    "timeDay": 309,
+    "timeWeek": 309,
+    "timeMonth": 309,
+    "timeYear": 309,
+    "dailyMinutesDown": {}
   }
 ]
