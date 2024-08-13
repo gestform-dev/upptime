@@ -7,8 +7,8 @@ sites:
     url: https://www.gestform.com/
   - name: file-upload
     url: https://file-upload.gestform.com/
-  - name: test
-    url: https://test.gestform.com/
+  - name: test2
+    url: https://test2.gestform.com/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
