@@ -18,8 +18,8 @@ status-website:
   baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Gestform
-  introTitle: "Gestform applications status pages"
-  introMessage: You can visualise if all gestform app are up or down.
+  introTitle: "Gestform applications status page"
+  introMessage: You can visualise if all gestform app are up or down. Check applications every 5 mins.
   navbar:
     - title: Status
       href: /
