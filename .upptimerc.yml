@@ -7,6 +7,8 @@ sites:
     url: https://www.gestform.com/
   - name: file-upload
     url: https://file-upload.gestform.com/
+  - name: external-reporting
+    url: https://dbtool-external.gestform.com/
 
 
 status-website:
