@@ -3,14 +3,15 @@ owner: gestform-dev # Your GitHub organization or username, where this repositor
 repo: upptime # The name of this repository
 
 sites:
+  - name: ngrokTest2
+    url: https://77d7-212-51-179-1.ngrok-free.app/fs-tracking/version
+    expectedStatusCodes:
+      - 200
   - name: gestform
     url: https://www.gestform.com/
   - name: file-upload
     url: https://file-upload.gestform.com/
-  - name: ngrokTest
-    url: https://53a4-212-51-179-1.ngrok-free.app/fs-tracking/version
-    expectedStatusCodes:
-      - 200
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
