@@ -4,19 +4,19 @@
     "url": "https://77d7-212-51-179-1.ngrok-free.app/fs-tracking/version",
     "icon": "https://icons.duckduckgo.com/ip3/77d7-212-51-179-1.ngrok-free.app.ico",
     "slug": "ngrok-test2",
-    "status": "up",
-    "uptime": "1.93%",
-    "uptimeDay": "1.93%",
-    "uptimeWeek": "1.93%",
-    "uptimeMonth": "1.93%",
-    "uptimeYear": "1.93%",
-    "time": 365,
-    "timeDay": 365,
-    "timeWeek": 365,
-    "timeMonth": 365,
-    "timeYear": 365,
+    "status": "down",
+    "uptime": "1.64%",
+    "uptimeDay": "1.64%",
+    "uptimeWeek": "1.64%",
+    "uptimeMonth": "1.64%",
+    "uptimeYear": "1.64%",
+    "time": 366,
+    "timeDay": 366,
+    "timeWeek": 366,
+    "timeMonth": 366,
+    "timeYear": 366,
     "dailyMinutesDown": {
-      "2024-08-14": 149
+      "2024-08-14": 175
     }
   },
   {
