@@ -1,25 +1,5 @@
 [
   {
-    "name": "ngrokTest2",
-    "url": "https://77d7-212-51-179-1.ngrok-free.app/fs-tracking/version",
-    "icon": "https://icons.duckduckgo.com/ip3/77d7-212-51-179-1.ngrok-free.app.ico",
-    "slug": "ngrok-test2",
-    "status": "down",
-    "uptime": "6.63%",
-    "uptimeDay": "6.63%",
-    "uptimeWeek": "6.63%",
-    "uptimeMonth": "6.63%",
-    "uptimeYear": "6.63%",
-    "time": 382,
-    "timeDay": 382,
-    "timeWeek": 382,
-    "timeMonth": 382,
-    "timeYear": 382,
-    "dailyMinutesDown": {
-      "2024-08-14": 183
-    }
-  },
-  {
     "name": "gestform",
     "url": "https://www.gestform.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.gestform.com.ico",
@@ -30,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1579,
-    "timeDay": 1852,
-    "timeWeek": 1579,
-    "timeMonth": 1579,
-    "timeYear": 1579,
+    "time": 1444,
+    "timeDay": 1513,
+    "timeWeek": 1444,
+    "timeMonth": 1444,
+    "timeYear": 1444,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 880,
-    "timeDay": 1023,
-    "timeWeek": 880,
-    "timeMonth": 880,
-    "timeYear": 880,
+    "time": 820,
+    "timeDay": 863,
+    "timeWeek": 820,
+    "timeMonth": 820,
+    "timeYear": 820,
     "dailyMinutesDown": {}
   }
 ]
