@@ -8,7 +8,7 @@ sites:
   - name: file-upload
     url: https://file-upload.gestform.com/
   - name: ngrok
-    url: https://1102-212-51-179-1.ngrok-free.app/fs-tracking/version
+    url: https://769e-212-51-179-1.ngrok-free.app/fs-tracking/version
     expectedStatusCodes:
       - 200
 
