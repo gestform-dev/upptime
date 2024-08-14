@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1305,
-    "timeDay": 1305,
-    "timeWeek": 1305,
-    "timeMonth": 1305,
-    "timeYear": 1305,
+    "time": 1579,
+    "timeDay": 1579,
+    "timeWeek": 1579,
+    "timeMonth": 1579,
+    "timeYear": 1579,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 736,
-    "timeDay": 736,
-    "timeWeek": 736,
-    "timeMonth": 736,
-    "timeYear": 736,
+    "time": 880,
+    "timeDay": 880,
+    "timeWeek": 880,
+    "timeMonth": 880,
+    "timeYear": 880,
     "dailyMinutesDown": {}
   },
   {
@@ -41,18 +41,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/1102-212-51-179-1.ngrok-free.app.ico",
     "slug": "ngrok",
     "status": "down",
-    "uptime": "65.21%",
-    "uptimeDay": "65.21%",
-    "uptimeWeek": "65.21%",
-    "uptimeMonth": "65.21%",
-    "uptimeYear": "65.21%",
-    "time": 323,
-    "timeDay": 323,
-    "timeWeek": 323,
-    "timeMonth": 323,
-    "timeYear": 323,
+    "uptime": "5.93%",
+    "uptimeDay": "5.93%",
+    "uptimeWeek": "5.93%",
+    "uptimeMonth": "5.93%",
+    "uptimeYear": "5.93%",
+    "time": 299,
+    "timeDay": 299,
+    "timeWeek": 299,
+    "timeMonth": 299,
+    "timeYear": 299,
     "dailyMinutesDown": {
-      "2024-08-13": 22
+      "2024-08-14": 75,
+      "2024-08-13": 573
     }
   }
 ]
