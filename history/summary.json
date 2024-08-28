@@ -22,9 +22,9 @@
     "url": "https://file-upload.gestform.com/",
     "icon": "https://icons.duckduckgo.com/ip3/file-upload.gestform.com.ico",
     "slug": "file-upload",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 802,
     "timeMonth": 846,
     "timeYear": 846,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-28": 0
+    }
   },
   {
     "name": "external-reporting",
