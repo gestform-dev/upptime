@@ -22,19 +22,19 @@
     "url": "https://file-upload.gestform.com/",
     "icon": "https://icons.duckduckgo.com/ip3/file-upload.gestform.com.ico",
     "slug": "file-upload",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 846,
-    "timeDay": 826,
-    "timeWeek": 802,
-    "timeMonth": 846,
-    "timeYear": 846,
+    "status": "up",
+    "uptime": "99.31%",
+    "uptimeDay": "89.73%",
+    "uptimeWeek": "98.53%",
+    "uptimeMonth": "99.31%",
+    "uptimeYear": "99.31%",
+    "time": 837,
+    "timeDay": 743,
+    "timeWeek": 785,
+    "timeMonth": 837,
+    "timeYear": 837,
     "dailyMinutesDown": {
-      "2024-08-28": 0
+      "2024-08-28": 148
     }
   },
   {
