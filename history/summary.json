@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1720,
-    "timeDay": 1854,
-    "timeWeek": 1702,
-    "timeMonth": 1720,
-    "timeYear": 1720,
+    "time": 1696,
+    "timeDay": 1256,
+    "timeWeek": 1656,
+    "timeMonth": 1696,
+    "timeYear": 1696,
     "dailyMinutesDown": {}
   },
   {
@@ -23,16 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/file-upload.gestform.com.ico",
     "slug": "file-upload",
     "status": "up",
-    "uptime": "99.31%",
+    "uptime": "99.34%",
     "uptimeDay": "89.73%",
     "uptimeWeek": "98.53%",
-    "uptimeMonth": "99.31%",
-    "uptimeYear": "99.31%",
-    "time": 837,
-    "timeDay": 743,
-    "timeWeek": 785,
-    "timeMonth": 837,
-    "timeYear": 837,
+    "uptimeMonth": "99.34%",
+    "uptimeYear": "99.34%",
+    "time": 827,
+    "timeDay": 649,
+    "timeWeek": 771,
+    "timeMonth": 827,
+    "timeYear": 827,
     "dailyMinutesDown": {
       "2024-08-28": 148
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1242,
-    "timeDay": 1089,
-    "timeWeek": 1149,
-    "timeMonth": 1242,
-    "timeYear": 1242,
+    "time": 1227,
+    "timeDay": 994,
+    "timeWeek": 1129,
+    "timeMonth": 1227,
+    "timeYear": 1227,
     "dailyMinutesDown": {}
   }
 ]
