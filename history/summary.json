@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.gestform.com.ico",
     "slug": "gestform",
     "status": "up",
-    "uptime": "99.50%",
+    "uptime": "99.51%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.30%",
-    "uptimeYear": "99.50%",
-    "time": 1642,
-    "timeDay": 1186,
-    "timeWeek": 1501,
-    "timeMonth": 1613,
-    "timeYear": 1642,
+    "uptimeYear": "99.51%",
+    "time": 1631,
+    "timeDay": 1088,
+    "timeWeek": 1423,
+    "timeMonth": 1601,
+    "timeYear": 1631,
     "dailyMinutesDown": {
       "2024-09-10": 307
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.66%",
     "uptimeYear": "99.76%",
-    "time": 792,
-    "timeDay": 687,
-    "timeWeek": 748,
-    "timeMonth": 765,
-    "timeYear": 792,
+    "time": 790,
+    "timeDay": 701,
+    "timeWeek": 727,
+    "timeMonth": 766,
+    "timeYear": 790,
     "dailyMinutesDown": {
       "2024-08-28": 148
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1175,
-    "timeDay": 1042,
-    "timeWeek": 1107,
+    "time": 1172,
+    "timeDay": 1019,
+    "timeWeek": 1089,
     "timeMonth": 1146,
-    "timeYear": 1175,
+    "timeYear": 1172,
     "dailyMinutesDown": {}
   }
 ]
