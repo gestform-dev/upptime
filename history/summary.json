@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.gestform.com.ico",
     "slug": "gestform",
     "status": "up",
-    "uptime": "99.52%",
+    "uptime": "99.53%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.30%",
-    "uptimeYear": "99.52%",
+    "uptimeYear": "99.53%",
     "time": 1633,
     "timeDay": 1758,
     "timeWeek": 1409,
@@ -44,17 +44,19 @@
     "url": "https://dbtool-external.gestform.com/",
     "icon": "https://icons.duckduckgo.com/ip3/dbtool-external.gestform.com.ico",
     "slug": "external-reporting",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1185,
-    "timeDay": 1763,
-    "timeWeek": 1117,
-    "timeMonth": 1154,
-    "timeYear": 1185,
-    "dailyMinutesDown": {}
+    "time": 1174,
+    "timeDay": 1236,
+    "timeWeek": 1066,
+    "timeMonth": 1140,
+    "timeYear": 1174,
+    "dailyMinutesDown": {
+      "2024-09-27": 0
+    }
   }
 ]
