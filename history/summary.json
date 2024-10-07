@@ -44,19 +44,19 @@
     "url": "https://dbtool-external.gestform.com/",
     "icon": "https://icons.duckduckgo.com/ip3/dbtool-external.gestform.com.ico",
     "slug": "external-reporting",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1169,
-    "timeDay": 1040,
-    "timeWeek": 1183,
-    "timeMonth": 1141,
-    "timeYear": 1169,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "98.22%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.97%",
+    "time": 1167,
+    "timeDay": 1037,
+    "timeWeek": 1166,
+    "timeMonth": 1138,
+    "timeYear": 1167,
     "dailyMinutesDown": {
-      "2024-10-07": 0
+      "2024-10-07": 26
     }
   }
 ]
